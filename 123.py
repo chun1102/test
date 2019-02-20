@@ -1,3 +1,3 @@
-studentA = 'You are idiot.'
+studentA = 'I am an idiot.'
 studentB = 'I\'m StudentB.'
 print(studentA, studentB)
