@@ -1,3 +1,3 @@
 studentA = 'I\'m StudentA.'
-studentB = input('Enter your name: \n')
+studentB = 'I\'m StudentB.'
 print(studentA, studentB)
