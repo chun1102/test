@@ -1,3 +1,3 @@
-x = 10
-y = 5
-print(x - y)
+studentA = 'I\'m StudentA.'
+studentB = input('Enter your name: \n')
+print(studentA, studentB)
