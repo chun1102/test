@@ -1,4 +1,4 @@
-studentA = 'I am an idiot.'
-studentB = 'I\'m StudentB.'
+studentA = 'I\'m StudentA.'
+studentB = 'I am an idiot.'
 print(studentA, studentB)
 print(studentA)
